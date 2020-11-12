@@ -9,4 +9,4 @@ jobs:
       
       - run:
           name: Mi nombre
-          command: echo Carlos Dolz
+          command: echo "Carlos Dolz"
